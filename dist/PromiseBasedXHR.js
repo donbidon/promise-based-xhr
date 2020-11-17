@@ -5,7 +5,7 @@
  *
  * Calls resolve/reject Promise methods passing XMLHttpRequest object.
  *
- * @param Object args
+ * @param {Object} args
  * - string method
  * - string url
  * - Object|string|undefined data  Data to send
@@ -14,7 +14,7 @@
  *
  * @return Promise
  */
-PromiseBasedXHR = function (args) {
+var PromiseBasedXHR = function (args) {
     let xhr = new XMLHttpRequest();
 
     xhr.open(args.method, args.url);
