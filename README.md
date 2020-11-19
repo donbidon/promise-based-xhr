@@ -37,4 +37,4 @@ request
 ```
 
 ## Donate
-[Yandex.Money, Visa, MasterCard, Maestro](https://money.yandex.ru/to/4100135114149) or click to the "receives" badge.
+[YooMoney (ex-Yandex.Money), Visa, MasterCard, Maestro](https://https://yoomoney.ru/to/41001351141494) or click to the "receives" badge.
